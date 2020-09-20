@@ -138,3 +138,6 @@ main .img_03 {
     align-self: flex-start;
     width: 100px;
 }
+a {
+    font-size: 40px;
+}
